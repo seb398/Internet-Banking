@@ -58,4 +58,3 @@ h1 {
         <strong>Note:</strong> Please use your name as the reference so we can allocate your payment correctly.
     </div>
 </div>
-
