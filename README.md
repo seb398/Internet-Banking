@@ -1,1 +1,61 @@
-# Internet-Banking
+<style>
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+.container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+h1 {
+    color: #333;
+    text-align: center;
+}
+.detail {
+    margin-bottom: 15px;
+}
+.label {
+    font-weight: bold;
+    color: #555;
+}
+.value {
+    color: #333;
+}
+.note {
+    background-color: #e8f4fd;
+    padding: 10px;
+    border-left: 4px solid #007acc;
+    margin-top: 20px;
+}
+</style>
+
+<div class="container">
+    <h1>Internet Banking Instructions</h1>
+    
+    <p>Please make a bank transfer using the following details:</p>
+    
+    <div class="detail">
+        <div class="label">Account Name:</div>
+        <div class="value">WISEplanning</div>
+    </div>
+    
+    <div class="detail">
+        <div class="label">Bank Account Number:</div>
+        <div class="value">06-0925-0211619-00</div>
+    </div>
+    
+    <div class="detail">
+        <div class="label">Reference:</div>
+        <div class="value">Please use your name as the reference so we can allocate your payment correctly.</div>
+    </div>
+    
+    <div class="note">
+        <strong>Note:</strong> Please use your name as the reference so we can allocate your payment correctly.
+    </div>
+</div>
+
